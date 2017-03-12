@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\bin\Debug\wProje.1.exe.config
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\bin\Debug\wProje.1.exe
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\bin\Debug\wProje.1.pdb
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\obj\Debug\wProje.1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\obj\Debug\wProje._1.anasayfa.resources
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\obj\Debug\wProje._1.giris.resources
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\obj\Debug\wProje._1.Properties.Resources.resources
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\obj\Debug\wProje.1.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\obj\Debug\wProje.1.exe
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\obj\Debug\wProje.1.pdb
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\obj\Debug\wProje._1.yeniUye.resources
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\obj\Debug\wProje._1.guncelleme.resources
+C:\Users\Asus\Desktop\wpProje\wProje.1\wProje.1\obj\Debug\wProje._1.randevuAyarla.resources
+C:\Users\gamze\Desktop\okul\projeler\guzellikMerkezi\wProje.1\wProje.1\bin\Debug\wProje.1.exe.config
+C:\Users\gamze\Desktop\okul\projeler\guzellikMerkezi\wProje.1\wProje.1\obj\Debug\wProje.1.exe
+C:\Users\gamze\Desktop\okul\projeler\guzellikMerkezi\wProje.1\wProje.1\obj\Debug\wProje.1.pdb
